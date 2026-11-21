@@ -1,0 +1,6 @@
+{
+  "name": "Қаржы Компас: Банк, Есеп және 1С",
+  "description": "Қазақстандық бухгалтерлік есептілік, 1С:Бухгалтерия оқу модулі, банктік қызметтер және жасанды интеллект кеңесшісі.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
